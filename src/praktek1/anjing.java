@@ -4,6 +4,8 @@ public class anjing {
     String jenis;
     String nama;
     String asal;
+    String warna;
+    String ukuran;
  
     
     void hewan(){
