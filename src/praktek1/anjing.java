@@ -14,5 +14,6 @@ public class anjing {
         System.out.println("Asal : "+asal);
         System.out.println("Warna : "+warna);
         System.out.println("Ukuran : "+ukuran);
+        
 }
 }

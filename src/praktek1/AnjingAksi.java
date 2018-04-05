@@ -26,6 +26,12 @@ public class AnjingAksi {
         C.asal="Britania Raya";
         C.warna="Coklat Keemasan";
         C.ukuran="Besar";
+        
+        A.hewan();
+        System.out.println();
+        B.hewan();
+        System.out.println();
+        C.hewan();
     }
     
 }
